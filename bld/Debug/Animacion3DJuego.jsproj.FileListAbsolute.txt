@@ -1,0 +1,16 @@
+C:\Users\Eduardo\source\repos\Animacion3DJuego\Animacion3DJuego\bin\Debug\ReverseMap\resources.pri
+C:\Users\Eduardo\source\repos\Animacion3DJuego\Animacion3DJuego\bin\Debug\AppxManifest.xml
+C:\Users\Eduardo\source\repos\Animacion3DJuego\Animacion3DJuego\bld\Debug\Animacion3DJuego.jsproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Animacion3DJuego\Animacion3DJuego\bld\Debug\ResourceHandlingTask.state
+C:\Users\Eduardo\source\repos\Animacion3DJuego\Animacion3DJuego\bld\Debug\priconfig.xml
+C:\Users\Eduardo\source\repos\Animacion3DJuego\Animacion3DJuego\bld\Debug\priconfig.xml.intermediate
+C:\Users\Eduardo\source\repos\Animacion3DJuego\Animacion3DJuego\bld\Debug\layout.resfiles
+C:\Users\Eduardo\source\repos\Animacion3DJuego\Animacion3DJuego\bld\Debug\layout.resfiles.intermediate
+C:\Users\Eduardo\source\repos\Animacion3DJuego\Animacion3DJuego\bld\Debug\resources.resfiles
+C:\Users\Eduardo\source\repos\Animacion3DJuego\Animacion3DJuego\bld\Debug\resources.resfiles.intermediate
+C:\Users\Eduardo\source\repos\Animacion3DJuego\Animacion3DJuego\bld\Debug\pri.resfiles
+C:\Users\Eduardo\source\repos\Animacion3DJuego\Animacion3DJuego\bld\Debug\pri.resfiles.intermediate
+C:\Users\Eduardo\source\repos\Animacion3DJuego\Animacion3DJuego\bld\Debug\qualifiers.txt
+C:\Users\Eduardo\source\repos\Animacion3DJuego\Animacion3DJuego\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Eduardo\source\repos\Animacion3DJuego\Animacion3DJuego\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Eduardo\source\repos\Animacion3DJuego\Animacion3DJuego\bld\Debug\ProjectArchitectures.txt

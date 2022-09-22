@@ -1,0 +1,5 @@
+-emitAnyForUnresolvedTypes
+-outFilePath
+c:\users\diego\desktop\ense\animacion3d\animación 3d tojerus\animacion3djuego\animacion3djuego\bld\debug\winrtrefs\winrtrefs-temp.d.ts
+-emitDocumentation
+-suppressWarningsForUnresolvedWindowsTypes
