@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8"/>
+    <title>Animacion3DJuego</title>
+    <link href="css/default.css" rel="stylesheet"/>
+
+    <script src="js/jquery-3.2.1.js"></script>
+    <script src="js/Box2D.js"></script>
+    <script src="js/physics_aux.js"></script>
+    <script src="js/input.js"></script>
+    <script src="js/code.js"></script>
+    <script src="js/camera.js"></script>
+    <script src="js/player.js"></script>
+    <script src="js/background.js"></script>
+    <script src="js/obstacle.js"></script>
+    <script src="js/PowerUp.js"></script>
+    <script src="js/enemy.js"></script>
+    <script src="js/collisionsHandler.js"></script>
+    <script src="js/levelsScript.js"></script>
+    <script src="js/point.js"></script>
+    <script src="js/Bullet.js"></script>
+
+</head>
+<body onload="Init();">
+    <div id="container" class="wrapper">
+        <img id="bgStart"src="./images/InitialBg.png" />
+        <button class="butt" id="easyButton">Easy</button>
+        <button class="butt" id="normalButton">Normal</button>
+        <button class="butt" id="hardButton">Hard</button>
+        <button class="butt" id="muteButton"></button>
+
+        <button class="butt" id="manualButton"><a href="Manual.html">Help!</a></button>
+
+        <button class="butt" id="creditsButton">Credits</button>
+        <button class="butt" id="buttRestart">Restart</button>
+
+        
+
+
+        <button class="butt" id="buttNext">Next Level</button>
+        <canvas id="my_canvas" width="1200" height="800" hidden></canvas>
+    </div>
+</body>
+
+</html>
