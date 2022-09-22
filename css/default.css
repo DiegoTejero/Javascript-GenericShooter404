@@ -1,0 +1,252 @@
+﻿
+.button {
+    transition-duration:0.3s;
+}
+
+.a {
+
+    color: black;
+}
+
+div.info {
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+    font-weight: normal;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 3px 3px 8px darkgreen;
+}
+
+#easyButton:hover {
+    color: lightgreen;
+    background-color: lightgray;
+    font-weight: bold;
+}
+
+#normalButton:hover {
+    color: lightblue;
+    background-color: lightgray;
+    font-weight: bold;
+}
+
+#hardButton:hover {
+    color: palevioletred;
+    background-color: lightgray;
+    font-weight: bold;
+}
+
+#creditsButton:hover {
+    color: black;
+    background-color: lightgray;
+    font-weight: bold;
+}
+
+#manualButton:hover {
+    color: black;
+    background-color: lightgray;
+    font-weight: bold;
+}
+
+#backButton:hover {
+    color: black;
+    background-color: lightgray;
+    font-weight: bold;
+}
+
+#easyButton {
+    max-width: 150px;
+    max-height: 50px;
+    width: 100%;
+    height: 100%;
+    border-radius: 30px 10px;
+    border-color: darkgreen;
+    font-size: 30px;
+    font-weight: normal;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 3px 3px 8px darkgreen;
+    color: lawngreen;
+    background-color: forestgreen;
+    box-shadow: 8px 8px 5px greenyellow;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 5px;
+    position: absolute;
+    left:100px;
+    right: 0px;
+    top: 100px;
+    bottom: 0px;
+}
+
+/*    */
+
+#normalButton {
+    max-width: 150px;
+    max-height: 50px;
+    width: 100%;
+    height: 100%;
+    border-radius: 30px 10px;
+    border-color: darkblue;
+    font-size: 30px;
+    font-weight: normal;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 3px 3px 8px darkblue;
+    color: mediumblue;
+    background-color: royalblue;
+    box-shadow: 8px 8px 5px lightblue;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 5px;
+    position: absolute;
+    left: 100px;
+    right: 0px;
+    top: 200px;
+    bottom: 0px;
+}
+
+#hardButton {
+    max-width: 150px;
+    max-height: 50px;
+    width: 100%;
+    height: 100%;
+    border-radius: 30px 10px;
+    border-color: red;
+    font-size: 30px;
+    font-weight: normal;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 3px 3px 8px red;
+    color: darkred;
+    background-color: indianred;
+    box-shadow: 8px 8px 5px indianred;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 5px;
+    position: absolute;
+    left: 100px;
+    right: 0px;
+    top: 300px;
+    bottom: 0px;
+}
+
+#muteButton {
+    width: 30px;
+    height: 30px;
+    border: 1px solid;
+    border-radius:15px;
+    padding: 5px;
+    position: absolute;
+    left: 20px;
+    right: 0;
+    top: 35px;
+    bottom: 0;
+    background-size: 30px;
+    background-color: gray;
+    display: block;
+}
+
+#buttRestart, #buttNext {
+    width: 250px;
+    height: 150px;
+    border-radius: 40px;
+    padding: 5px;
+    font-size: 50px;
+    font-weight: normal;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 3px 3px 8px darkblue;
+    position: absolute;
+    left: 450px;
+    right: 0px;
+    top: 350px;
+    bottom: 0px;
+    background-size: 30px;
+    background-color: gray;
+    display: none;
+}
+
+
+
+#creditsButton {
+    max-width: 60px;
+    max-height: 40px;
+    width: 100%;
+    height: 100%;
+    border-radius: 30px 10px;
+    border-color: darkslategray;
+    font-size: 15px;
+    font-weight: normal;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 3px 3px 8px darkslategray;
+    color: black;
+    background-color: darkgray;
+    box-shadow: 8px 8px 5px gray;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 5px;
+    position: absolute;
+    left: 55px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+}
+
+#manualButton {
+    max-width: 60px;
+    max-height: 40px;
+    width: 100%;
+    height: 100%;
+    border-radius: 30px 10px;
+    border-color: darkslategray;
+    font-size: 15px;
+    font-weight: normal;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 3px 3px 8px darkslategray;
+    color: black;
+    background-color: darkgray;
+    box-shadow: 8px 8px 5px gray;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 5px;
+    position: absolute;
+    left: 130px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+}
+
+#backButton {
+    max-width: 60px;
+    max-height: 40px;
+    width: 100%;
+    height: 100%;
+    border-radius: 30px 10px;
+    border-color: darkslategray;
+    font-size: 15px;
+    font-weight: normal;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 3px 3px 8px darkslategray;
+    color: black;
+    background-color: darkgray;
+    box-shadow: 8px 8px 5px gray;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 5px;
+    position: absolute;
+    left: 130px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+}
+
+#butTex 
+{
+    text-align: center;
+    width: 300px;
+    height: 300px;
+}
